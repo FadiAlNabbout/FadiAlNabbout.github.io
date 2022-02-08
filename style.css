@@ -1,0 +1,32 @@
+.info{
+  border: 2px solid grey;
+  margin: 0.5em;
+  padding: 0.5em;
+  width: 250px;
+  height: 70px;
+  text-align: center;
+  text-align-last: center;
+}
+html{
+  border: 2px solid black;
+  padding: 0.5em;
+  background-color: rgb(255, 230, 230);
+  max-height: 950px;
+}
+.head{
+  text-align: center;
+  text-align-last: center;
+}
+header{
+  text-decoration: underline;
+}
+.image{
+  margin: auto 10px;
+     float:  right;
+     width: 150px;
+     height: 180px;
+}
+.mail{
+float: left;
+
+}
