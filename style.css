@@ -11,7 +11,8 @@ html{
   border: 2px solid black;
   padding: 0.5em;
   background-color: rgb(255, 230, 230);
-  max-height: 950px;
+  height: 100%
+  width: 100%
 }
 .head{
   text-align: center;
@@ -28,5 +29,9 @@ header{
 }
 .mail{
 float: left;
+
+}
+body{
+  width: 100%;
 
 }
